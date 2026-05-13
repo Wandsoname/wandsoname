@@ -6,7 +6,7 @@
 - 🌱 Estudando Linguagem e Prática de Programação
 - 📫 Contate-me no email: wandsoname@gmail.com
 - 😄 Pronomes: ele/dele
-- 📚 Linguagens : Python
+- 📚 Linguagens : Python, C#
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandsoname&show_icons=true&theme=tokyonight)
