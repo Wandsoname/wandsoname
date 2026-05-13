@@ -14,8 +14,14 @@
 
 ##
 
-<div style="display: inline_block"><br>
-<img class="svgLogo" aling="center" height="50" width="60" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+<div style="display: flex; align-items: center; gap: 10px;">
+
+  <img height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+
+  <img height="50" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+
 </div>
 
 ##
