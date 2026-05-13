@@ -6,21 +6,19 @@
 - 🌱 Estudando Linguagem e Prática de Programação
 - 📫 Contate-me no email: wandsoname@gmail.com
 - 😄 Pronomes: ele/dele
-- 📚 Linguagens : Python, C#
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandsoname&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandsoname&layout=compact&theme=tokyonight)
+- 📚 Linguagens em estudo : Python, C#
 
 ##
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div>
 
-  <img height="50" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img style="display:inline-block"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+       width="60" height="60"/>
 
-  <img height="50" width="60"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img style="display:inline-block"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+       width="60" height="60"/>
 
 </div>
 
