@@ -1,7 +1,7 @@
 ## Olá eu Sou Wandson 👋
 <img aling="right" height="50" width="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3o2eGw4aGl3cGJneXh3ZGo2eTEwaHpydnV1ODVvcGVicjVtNjVqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OS9R41QuUqjnwMcqYI/giphy.gif">
 
-- 🔭 Hoje Trabahlo como ADM de Vendas JR. (em transição de carreira pra Dados)
+- 🔭 Hoje Trabalho como ADM de Vendas JR. (em transição de carreira pra Dados)
 - 🌱 Estudando Logica de Programação e Pensamento computacional
 - 🌱 Estudando Linguagem e Prática de Programação
 - 📫 Contate-me no email: wandsoname@gmail.com
