@@ -3,6 +3,7 @@
 
 - 🔭 Hoje Trabahlo como ADM de Vendas JR. (em transição de carreira pra Dados)
 - 🌱 Estudando Logica de Programação e Pensamento computacional
+- 🌱 Estudando Linguagem e Prática de Programação
 - 📫 Contate-me no email: wandsoname@gmail.com
 - 😄 Pronomes: ele/dele
 - 📚 Linguagens : Python
