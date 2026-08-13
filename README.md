@@ -21,7 +21,7 @@
        width="60" height="60"/>
 
   <img style="display:inline-block"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/html-original.svg"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original.svg"
        width="60" height="60"/>
 
 </div>
