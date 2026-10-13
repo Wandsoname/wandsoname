@@ -6,7 +6,6 @@
 - 🌱 Estudando Linguagem e Prática de Programação
 - 🌱 Estudando Programação web
 - 📫 Contate-me no email: wandsoname@gmail.com
-- 😄 Pronomes: ele/dele
 - 📚 Linguagens/Ferramentas em estudo : Python, C#, HTML, CSS, MYSQL, PHP
 
 ##
