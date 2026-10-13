@@ -7,7 +7,7 @@
 - 🌱 Estudando Programação web
 - 📫 Contate-me no email: wandsoname@gmail.com
 - 😄 Pronomes: ele/dele
-- 📚 Linguagens em estudo : Python, C#, HTML, CSS, SQL
+- 📚 Linguagens/Ferramentas em estudo : Python, C#, HTML, CSS, MYSQL, PHP
 
 ##
 
@@ -19,6 +19,10 @@
 
   <img style="display:inline-block"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+       width="60" height="60"/>
+
+  <img style="display:inline-block"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/php-original.svg"
        width="60" height="60"/>
 
 </div>
