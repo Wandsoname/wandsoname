@@ -24,6 +24,10 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
        width="60" height="60"/>
 
+  <img style="display:inline-block"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+       width="60" height="60"/>
+
 </div>
 
 ##
